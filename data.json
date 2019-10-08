@@ -1,0 +1,78 @@
+[
+    {
+        "url": "http://www.zpub.com/notes/idle.html",
+        "star": true,
+        "title": "In Praise of Idleness &mdash; Bertrand Russel",
+        "category": "Philosophy",
+        "type": "essay",
+        "description": "A great essay, as relevant to day as when it was written back in 1932. Includes one of my favourite jokes <blockquote>First of all: what is work? Work is of two kinds: first, altering the position of matter at or near the earth's surface relatively to other such matter; second, telling other people to do so.</blockquote>"
+    },
+    {
+        "url": "https://www.jofreeman.com/joreen/tyranny.htm",
+        "title": "The Tyranny of Structurelessness &mdash; Jo Freeman",
+        "category": "Philosophy",
+        "type": "essay",
+        "description": "A powerful argument that invisible structures flourish on organisations without explicit structure. An argument which should ring true for anyone who's ever experienced the politics of a school playground. We've seen plenty of this in the notionally flat organisations of Silicon Valley "
+    },
+    {
+        "url": "https://www.shutupandsitdown.com",
+        "category": "Board games",
+        "type": "blog",
+        "description":"The best board game site! Funny and insightful. The podcast is probably my favourite bit."
+    },
+    {
+        "url": "https://alicebartlett.co.uk",
+        "title": "Alice Bartlett",
+        "category": "People",
+        "type": "blog",
+        "description":"I had the pleasure to work with Alice at the FT. Her <i>Weaknotes</i> blog is an inspiration, she has a real knack for condesing ideas and events into engaging bullet points"
+    },
+    {
+        "url": "https://freakytrigger.co.uk",
+        "title": "Freaky Trigger",
+        "category": "Music",
+        "type": "blog",
+        "description":"A veritable institution! The core is Tom Ewings magnificent <i>Popular</i> series, a truely epic undertaking; to review each and every UK number one single."
+    },
+    {
+        "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+        "title": "A Complete Guide to Flexbox",
+        "category": "Web making",
+        "type": "Tutorial",
+        "description": "I visit this page a lot. Like much of CSS flex box never seems to click for me, I suspect that I just don't use it enough for it to become automatic."
+    },
+    {
+        "url":"http://hootpage.com",
+        "category": "Music"
+    },
+    {
+        "url": "http://www.arthousecrouchend.co.uk",
+        "category": "Cinema",
+        "type": "London places"
+    },
+    {
+        "url":"https://www.everymancinema.com/muswell-hill",
+        "category":"Cinema",
+        "type":"London places"
+    },
+    {
+        "url":"https://www.childrensbookshoplondon.com",
+        "title":"Children's Bookshop - Muswell Hill",
+        "category":"Books",
+        "star": true,
+        "type":"London places",
+        "Decription":"This little bookshop is an absolute gem. Fantastic stock but more importantly extremely knowlegable and helpfull staff."
+    },
+    {
+        "url": "https://www.tophtucker.com",
+        "category": "Web making",
+        "type": "homepage"
+    },
+    {
+        "url": "https://www.kickscondor.com",
+        "category": "Web making",
+        "type": "blog",
+        "description":"An inspiration both in terms of <a href=\"https://www.kickscondor.com/hypertexting\">general apporach</a> to web making and in particular for this here directory thing which you're raight now browsing."
+    }
+
+]
