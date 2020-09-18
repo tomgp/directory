@@ -3,12 +3,13 @@
     {% for link in list %}
     <li>
         
-        <span class="link-icons">{{ link.icons | safe }}</span>{% if link.url %}<a href={{link.url}}>{%endif%}
+        <span class="link-icons">{{ link.icons | safe }}</span>
+        {% if link.url %}<a href={{link.url}}>{%endif%}
         {{ link.title }}
         {% if link.url %}</a>{%endif%}
         {% if link.archive %}<a href={{link.archive}}>archive</a>{%endif%}
         {% if link.description %}
-            <blockquote class="link-description off">{{ link.description }}</blockquote>
+            <blockquote class="link-description">{{ link.description | safe }}</blockquote>
         {% endif %}
     </li>
     {% endfor %}
